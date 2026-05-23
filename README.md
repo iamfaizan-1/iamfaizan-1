@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Faizan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Faizan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20BSCS%20Student%20%40%20BBSUL&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### MERN Stack Developer | BSCS Student @ BBSUL
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://iamfaizan-1.github.io/My-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-71b78a322/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imuhammadfaizan5@gmail.com)
 
 </div>
 
@@ -65,11 +63,11 @@ I'm a passionate **MERN Stack Developer** and Computer Science student at **Bena
 
 <div align="center">
 
-![Muhammad Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamfaizan-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=iamfaizan-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfaizan-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfaizan-1&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamfaizan-1&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfaizan-1&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" width="49%"/>
 
 </div>
 
@@ -79,9 +77,9 @@ I'm a passionate **MERN Stack Developer** and Computer Science student at **Bena
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| 🔗 **Project One** | Short description of what it does | React, Node.js, MongoDB | [Demo](#) |
-| 🔗 **Project Two** | Short description of what it does | Next.js, PostgreSQL | [Demo](#) |
-| 🔗 **Project Three** | Short description of what it does | MERN Stack | [Demo](#) |
+| 🔗 **Project One** | Mercedes Clone |Html, CSS, Javascript, Bootstrap | [Demo](mercedes-clone-ten.vercel.app) |
+| 🔗 **Project Two** | Daraz Clone | Html, CSS, Javascript, Bootstrap | [Demo](daraz-clone-tau.vercel.app) |
+| 🔗 **Project Three** | Nizam Watches Clone| Html, CSS, Javascript, Bootstrap | [Demo](nizamwatch-clone.vercel.app) |
 
 > 📌 *Replace with your actual projects!*
 
@@ -102,8 +100,8 @@ I'm a passionate **MERN Stack Developer** and Computer Science student at **Bena
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamfaizan-1&color=blueviolet&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
-⭐ **If you find my work helpful, consider giving it a star!** ⭐
+![Profile Views](https://komarev.com/ghpvc/?username=iamfaizan-1&color=58a6ff&style=for-the-badge)
 
 </div>
