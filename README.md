@@ -77,11 +77,11 @@ I'm a passionate **MERN Stack Developer** and Computer Science student at **Bena
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| 🔗 **Project One** | Mercedes Clone |Html, CSS, Javascript, Bootstrap | [Demo](mercedes-clone-ten.vercel.app) |
-| 🔗 **Project Two** | Daraz Clone | Html, CSS, Javascript, Bootstrap | [Demo](daraz-clone-tau.vercel.app) |
-| 🔗 **Project Three** | Nizam Watches Clone| Html, CSS, Javascript, Bootstrap | [Demo](nizamwatch-clone.vercel.app) |
+| 🔗 **Project One** | Mercedes Clone |Html, CSS, Javascript, Bootstrap | [Demo](https://mercedes-clone-ten.vercel.app) |
+| 🔗 **Project Two** | Daraz Clone | Html, CSS, Javascript, Bootstrap | [Demo](https://daraz-clone-tau.vercel.app) |
+| 🔗 **Project Three** | Nizam Watches Clone| Html, CSS, Javascript, Bootstrap | [Demo](https://nizamwatch-clone.vercel.app) |
 
-> 📌 *Replace with your actual projects!*
+> 
 
 ---
 
@@ -91,8 +91,8 @@ I'm a passionate **MERN Stack Developer** and Computer Science student at **Bena
 
 💬 I'm open to **freelance work**, **collaborations**, and **internship opportunities**!
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faizan-71b78a322/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imuhammadfaizan5@gmail.com)
 
 </div>
 
