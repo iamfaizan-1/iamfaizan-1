@@ -77,7 +77,7 @@ I'm a passionate **MERN Stack Developer** and Computer Science student at **Bena
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| 🔗 **Project One** | Mercedes Clone |Html, CSS, Javascript, Bootstrap | [Demo](https://mercedes-clone-ten.vercel.app) |
+| 🔗 **Real estate** | Real Estate website |React, Tailwind CSS | [Demo](https://real-estate-final-chi.vercel.app/) |
 | 🔗 **Project Two** | Daraz Clone | Html, CSS, Javascript, Bootstrap | [Demo](https://daraz-clone-tau.vercel.app) |
 | 🔗 **Project Three** | Nizam Watches Clone| Html, CSS, Javascript, Bootstrap | [Demo](https://nizamwatch-clone.vercel.app) |
 
