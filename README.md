@@ -78,8 +78,9 @@ I'm a passionate **MERN Stack Developer** and Computer Science student at **Bena
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
 | 🔗 **Real estate** | Real Estate website |React, Tailwind CSS | [Demo](https://real-estate-final-chi.vercel.app/) |
-| 🔗 **Project Two** | Daraz Clone | Html, CSS, Javascript, Bootstrap | [Demo](https://daraz-clone-tau.vercel.app) |
-| 🔗 **Project Three** | Nizam Watches Clone| Html, CSS, Javascript, Bootstrap | [Demo](https://nizamwatch-clone.vercel.app) |
+| 🔗 **Range Rover** | Range Rover website |Html, Tailwind CSS | [Demo](https://range-rover-kohl.vercel.app/) |
+| 🔗 **Daraz** | Daraz Clone | Html, CSS, Javascript, Bootstrap | [Demo](https://daraz-clone-tau.vercel.app) |
+| 🔗 **Nizam Watches** | Nizam Watches Clone| Html, CSS, Javascript, Bootstrap | [Demo](https://nizamwatch-clone.vercel.app) |
 
 > 
 
